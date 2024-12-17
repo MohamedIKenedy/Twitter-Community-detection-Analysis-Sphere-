@@ -1,7 +1,7 @@
 # Twitter-Community-Detection-Analysis-Sphere
 The Twitter Community Detection project, operating under the name Analysis Sphere, is a comprehensive toolset designed to delve into the intricate web of Twitter communities. 
 
----
+----
 
 ## Twitter Community Detection Clustering
 
@@ -16,7 +16,7 @@ This project delves into Twitter network analysis, employing graph-based models 
 
 By utilizing graph-based models and hierarchical clustering, this project aims to dissect the intricate structure of the Twitter network. Metrics such as closeness and betweenness centrality help in evaluating the importance of nodes in the network, contributing to the identification of influential users or nodes. The project further employs community detection algorithms to reveal clusters of users with strong interconnections, providing insights into the underlying structure of the Twitter community.
 
----
+----
 
 ## Mathematical Formulations
 
