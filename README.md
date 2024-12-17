@@ -77,21 +77,21 @@ Where:
 ## Visualizations of Clustering Results
 
 ### Gaming Cluster
-![Gaming Cluster](<path-to-image>)
+![Gaming Cluster](Gaming.jpeg)
 
 The gaming cluster highlights the interconnected communities of users sharing gaming-related content, showcasing strong ties between influencers, fans, and brands within the gaming ecosystem.
 
 ---
 
 ### Music Cluster
-![Music Cluster](<path-to-image>)
+![Music Cluster](Music.jpeg)
 
 The music cluster reveals the dynamic communities formed by artists, fans, and music enthusiasts, displaying a tightly-knit network of interactions.
 
 ---
 
 ### Media Cluster
-![Media Cluster](<path-to-image>)
+![Media Cluster](Media.jpeg)
 
 The media cluster identifies the interaction patterns of news outlets, journalists, and their audiences, uncovering the key players and sub-communities within the media domain.
 
